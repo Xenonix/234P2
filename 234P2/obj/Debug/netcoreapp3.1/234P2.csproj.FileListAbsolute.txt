@@ -20,3 +20,14 @@ X:\Projects\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.dll
 X:\Projects\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.pdb
 X:\Projects\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.dll
 X:\Projects\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.pdb
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.exe
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.deps.json
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.runtimeconfig.json
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.runtimeconfig.dev.json
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.dll
+X:\Repos\234P2\234P2\bin\Debug\netcoreapp3.1\234P2.pdb
+X:\Repos\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.csprojAssemblyReference.cache
+X:\Repos\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.AssemblyInfoInputs.cache
+X:\Repos\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.AssemblyInfo.cs
+X:\Repos\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.dll
+X:\Repos\234P2\234P2\obj\Debug\netcoreapp3.1\234P2.pdb

@@ -58,7 +58,10 @@ namespace _234P2
         {
             if (_customerLocation == 0)
             {
-                _customerLocation = _userInput;
+                if (_userInput == 1 || _userInput == 2)
+                {
+                    _customerLocation = _userInput;
+                }
                 if (_userInput == 3)
                 {
                     _sellling = !_sellling;
@@ -76,8 +79,8 @@ namespace _234P2
                     _customer.AddRemoveProducts(_userInput, _sellling, _customerLocation);
                 }
             }
-           else
-                _warningMessage = "That wat not a valid option"; 
+            else
+                _warningMessage = "That was not a valid option"; 
         }
     }
 }
